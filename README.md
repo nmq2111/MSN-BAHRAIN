@@ -22,7 +22,7 @@
 - Featured Ad
 - Inspection products
 -
-- ***
+-
 
 ## The Scenarios
 
